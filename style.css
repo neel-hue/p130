@@ -1,0 +1,28 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  color: rgb(255, 255, 255);
+}
+.note
+{
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+}
+body
+{
+  background-size: cover;
+  font-family: 'Monoton', cursive;	
+}
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+    canvas 
+  {
+    border:5px solid rgb(0, 23, 73);
+    border-radius:20px;
+    box-shadow: 10px 10px 10px #6200ff81;
+  }
